@@ -1,3 +1,11 @@
+Hi 👋 My name is Ramshah Parveen
+========================
+
+A passionate App and Web developer from Pakistan
+------------------------------------------------
+
+💻‍ I'm an Information Technology Student 👨‍💻 Currently working with Flutter tech for App development 🎇 Learning: Machine Learning, MERN Stack technologies & Data Science 🎨 Hobbies: Graphic Design and Video Editing
+
 # 💫 About Me:
 🌍  I'm based in Pakistan<br>🤝  I'm open to collaborating on Projects<br>⚡  Believe in the transformative power of technology
 
